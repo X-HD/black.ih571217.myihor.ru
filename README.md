@@ -1,3 +1,8 @@
+Login for admin account
+
+Login:admin
+Password:12345
+
 Yii 2 Basic Project Template
 ============================
 
